@@ -26,4 +26,9 @@ export default createGlobalStyle`
   button{
     cursor: pointer;
   }
+
+  .alert-error{
+    font-size: 12px; 
+    color: #ea5757;
+  }
 `;

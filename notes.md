@@ -21,3 +21,7 @@
 //requisição
 
 - yarn add axios
+
+//props type
+
+- yarn add prop-types
